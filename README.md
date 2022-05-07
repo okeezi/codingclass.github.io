@@ -1,1 +1,1 @@
-# codingclass.github.io
+# https://codingclass.github.io
